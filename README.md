@@ -12,7 +12,7 @@ grab.py --base <BasesationID> --start <StartTime> --end <endTime>
 ```
 ***
 
-##Example
+## Example
 
 ```
 grab.py -b nybp -s 2017-10-04T00:00:00Z -e 2017-10-04T04:00:00Z
@@ -36,7 +36,8 @@ entered in ISO8061 format (YYYY-mm-dd __T__ HH:MM:ss __Z__). For the above
 example the end time is **2017-10-04T04:00:00Z**
 
 ---
-##Requirements
+## Requirements
+
 Please be advised that, **teqc** needs to 
 installed system wide **i.e (in system PATH)** for 
 this tool to work. Future updates to this tool will detect if teqc is 
