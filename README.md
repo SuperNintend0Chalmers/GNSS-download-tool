@@ -3,6 +3,9 @@
 This tool will download RINEX data from the NOAA CORS database to the
 directory.
 
+This tool has been created for 
+**AeroPoint Programming Challenge**
+ [link here] (https://github.com/PropellerAero/aeropoint-programming-challenge#aeropoint-programming-challenge)
 
 To download a file, the python script is needed 
 to be called in the following manner:
