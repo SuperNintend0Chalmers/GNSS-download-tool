@@ -12,7 +12,7 @@ grab.py --base <BasesationID> --start <StartTime> --end <endTime>
 ```
 ***
 
-####Example
+##Example
 
 ```
 grab.py -b nybp -s 2017-10-04T00:00:00Z -e 2017-10-04T04:00:00Z
